@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Teaching-myself-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Teaching-myself-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tip Calculator/Tip Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tip Calculator/Tip Calculator.py" afterDir="false" />
-    </list>
+    <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758532254190</updated>
-      <workItem from="1758532255293" duration="7563000" />
+      <workItem from="1758532255293" duration="7605000" />
     </task>
     <servers />
   </component>

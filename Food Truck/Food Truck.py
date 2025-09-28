@@ -18,3 +18,16 @@ ice_cream_scoops = input("How many scoops do you want? 1, 2 or 3: ")
 ice_cream_sprinkles = input("Do you want sprinkles? Y or N: ")
 bill = 0
 
+if food_item == "Pizza":
+    if pizza_size = "M":
+        bill += 20
+        print("One medium pizza.")
+    else:
+        bill += 15
+        print("One small pizza.")
+
+    if pizza_extra_cheese = "Y":
+        bill += 2
+        print("Adding extra cheese!")
+    else:
+        print("No extra cheese.")

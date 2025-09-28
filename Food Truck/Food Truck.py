@@ -4,7 +4,6 @@ print("What can we get for you today?\n\n")
 
 food_item = input("Would you like Pizza or Tacos, Or would you just like to skip to Ice cream? Type the name of the item you want: ")
 
-
 pizza_size = input("What Pizza size do you want? S or M: ")
 pizza_extra_cheese = input("Do you want extra cheese on you pizza? Y for yes, or N for no: ")
 pizza_pepperoni = input("Do you want pepperoni? Y or N: ")
@@ -16,6 +15,7 @@ taco_mix = input(" Do you want all to be the same meet type? Y or N: ")
 ice_cream_flavour = input("Do you want Strawberry, Chocolate or vanilla ice cream? Type the name of the flavour: ")
 ice_cream_scoops = input("How many scoops do you want? 1, 2 or 3: ")
 ice_cream_sprinkles = input("Do you want sprinkles? Y or N: ")
+
 bill = 0
 
 if food_item == "Pizza":
@@ -31,3 +31,24 @@ if food_item == "Pizza":
         print("Adding extra cheese!")
     else:
         print("No extra cheese.")
+
+    if pizza_pepperoni == "Y":
+        bill += 3
+        print("Adding pepperoni!")
+    else:
+        print("No pepperoni.")
+
+elif food_item == "Tacos":
+    if taco_type == "Beef":
+        bill += 4
+        print("Making some beef tacos for you!")
+    else:
+        bill += 4
+        print("Making some Chicken tacos for you!")
+
+    if taco_number == 2
+        bill += 4
+    elif taco_number == 4
+        bill += 6
+    else:
+        bill += 8

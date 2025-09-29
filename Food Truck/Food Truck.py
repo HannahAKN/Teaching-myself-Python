@@ -40,7 +40,7 @@ if food_item == "Pizza":
 
 elif food_item == "Tacos":
     if taco_type == "Beef":
-        bill += 4
+        bill += 3
         print("Making some beef tacos for you!")
     else:
         bill += 4
@@ -52,3 +52,9 @@ elif food_item == "Tacos":
         bill += 6
     else:
         bill += 8
+
+if taco_mix == "Y":
+    if taco_type = "Beef" and "Chicken":
+        bill += 7
+else:
+    print("Okay, only one type.")

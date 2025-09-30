@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Food Truck/Food Truck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Food Truck/Food Truck.py" afterDir="false" />
-    </list>
+    <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <workItem from="1758647717487" duration="596000" />
       <workItem from="1758862275114" duration="2776000" />
       <workItem from="1759075544848" duration="3975000" />
-      <workItem from="1759164104169" duration="725000" />
+      <workItem from="1759164104169" duration="770000" />
     </task>
     <servers />
   </component>

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Choose your own adventure game/Choose your own adventure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Choose your own adventure game/Choose your own adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Choose your own adventure game/Choose your own adventure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <workItem from="1759164104169" duration="770000" />
       <workItem from="1759224189471" duration="2407000" />
       <workItem from="1759256857456" duration="1627000" />
-      <workItem from="1759433033657" duration="514000" />
+      <workItem from="1759433033657" duration="539000" />
     </task>
     <servers />
   </component>

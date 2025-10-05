@@ -67,3 +67,4 @@ while True:
         break
 
 #Make a backstory, something that can give the adventure a reason for being her.
+#Make a date so an inventory, make a fighting system? Melee and magic? 

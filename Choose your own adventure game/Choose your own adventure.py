@@ -65,3 +65,5 @@ while True:
         You turn around, only too see eye to eye with a beholder. Before you have time to react, one of it's eye stocks shoots you with a black beam, turning you to dust.
         GAME OVER""")
         break
+
+#Make a backstory, something that can give the adventure a reason for being her.

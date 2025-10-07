@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning how to import things/Document_to_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning how to import things/How_to_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coin Flip/coin_flip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning how to import things/Document_to_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coin Flip/Learning how to import things/Document_to_import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning how to import things/How_to_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coin Flip/Learning how to import things/How_to_import.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Teaching myself Python\Teaching-myself-Python\Coin Flip" />
+      <recent name="D:\Coding\Teaching myself Python\Teaching-myself-Python" />
       <recent name="D:\Coding\Teaching myself Python\Teaching-myself-Python\Learning how to import things" />
     </key>
   </component>
@@ -94,7 +97,7 @@
       <workItem from="1759688005457" duration="525000" />
       <workItem from="1759688607722" duration="25000" />
       <workItem from="1759688660577" duration="1079000" />
-      <workItem from="1759866664654" duration="255000" />
+      <workItem from="1759866664654" duration="1351000" />
     </task>
     <servers />
   </component>

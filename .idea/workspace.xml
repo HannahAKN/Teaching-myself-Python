@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86fb5aea-948d-4d1a-8ae1-5a0ab8496b30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Learning how to import things/Document_to_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning how to import things/How_to_import.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Choose your own adventure game/Choose your own adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Choose your own adventure game/Choose your own adventure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Choose your own adventure.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Food Truck.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tip Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Choose your own adventure.executor": "Run",
+    "Python.Food Truck.executor": "Run",
+    "Python.How_to_import.executor": "Run",
+    "Python.Tip Calculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Teaching myself Python\Teaching-myself-Python\Learning how to import things" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,6 +94,7 @@
       <workItem from="1759688005457" duration="525000" />
       <workItem from="1759688607722" duration="25000" />
       <workItem from="1759688660577" duration="1079000" />
+      <workItem from="1759866664654" duration="255000" />
     </task>
     <servers />
   </component>
@@ -96,6 +104,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Teaching_myself_Python$Choose_your_own_adventure.coverage" NAME="Choose your own adventure Coverage Results" MODIFIED="1759433817421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Choose your own adventure game" />
     <SUITE FILE_PATH="coverage/Teaching_myself_Python$Food_Truck.coverage" NAME="Food Truck Coverage Results" MODIFIED="1759258334849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Food Truck" />
+    <SUITE FILE_PATH="coverage/Teaching_myself_Python$How_to_import.coverage" NAME="How_to_import Coverage Results" MODIFIED="1759866911723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learning how to import things" />
     <SUITE FILE_PATH="coverage/Teaching_myself_Python$Tip_Calculator.coverage" NAME="Tip Calculator Coverage Results" MODIFIED="1758560006360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tip Calculator" />
   </component>
 </project>

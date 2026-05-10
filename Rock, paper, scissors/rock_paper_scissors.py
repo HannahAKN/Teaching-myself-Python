@@ -28,7 +28,7 @@ scissors = '''
 '''
 
 player_input = input("Welcome to the Rock, Paper, Scissors game!\n"
-                               "Type what you want to play here: ")
+                               "Type what you want to play here: ").lower()
 
 options_list = ["rock", "paper", "scissors"]
 
@@ -72,3 +72,5 @@ elif player_input == "scissors" and comp_pick == "scissors":
     print("Computer wins!")
 else:
     print("Invalid input. You have to type 'Rock' 'Paper' or 'Scissors' ")
+
+input("Press Enter to exit...")
